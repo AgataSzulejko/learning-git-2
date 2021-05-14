@@ -1,10 +1,12 @@
+
 .poem-title {
-font-family: 'Nanum Brush Script', cursive;
-color:red;
+	font-family: 'Nanum Brush Script', cursive;
+	color: red;
+	text-align: center;
 }
 
-#poem {
-width:300px;
-margin:0 auto;
-text-align:center;
+.poem-body {
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
 }
